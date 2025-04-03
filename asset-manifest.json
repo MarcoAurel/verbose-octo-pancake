@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/verbose-octo-pancake/static/css/main.19109473.css",
+    "main.js": "/verbose-octo-pancake/static/js/main.b96a99de.js",
+    "index.html": "/verbose-octo-pancake/index.html",
+    "main.19109473.css.map": "/verbose-octo-pancake/static/css/main.19109473.css.map",
+    "main.b96a99de.js.map": "/verbose-octo-pancake/static/js/main.b96a99de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19109473.css",
+    "static/js/main.b96a99de.js"
+  ]
+}
